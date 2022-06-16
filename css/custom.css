@@ -200,7 +200,47 @@ span.mainPara,
 
   align-items: center;
 
-  background-image: url('/img/education.jpg');
+  background-image: url('../img/education.jpg');
+}
+.page-banner-health {
+  min-height: 100vh;
+  height: 100%;
+  flex: 1;
+  display: flex;
+
+  align-items: center;
+
+  background-image: url('../img/health-1.jpg');
+}
+.page-banner-empowerment {
+  min-height: 100vh;
+  height: 100%;
+  flex: 1;
+  display: flex;
+
+  align-items: center;
+
+  background-image: url('../img/empowerment-1.jpg');
+}
+.page-banner-environment {
+  min-height: 100vh;
+  height: 100%;
+  flex: 1;
+  display: flex;
+
+  align-items: center;
+
+  background-image: url('../img/environment-1.jpg');
+}
+.page-banner-technology {
+  min-height: 100vh;
+  height: 100%;
+  flex: 1;
+  display: flex;
+
+  align-items: center;
+
+  background-image: url('../img/technology-1.jpg');
 }
 .education-img img {
   max-width: 100%;
